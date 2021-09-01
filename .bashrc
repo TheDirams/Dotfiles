@@ -23,6 +23,8 @@ esac
 
 #General Aliases
 alias ls="ls --color=auto"
+alias lsa="ls -a --color=auto"
+alias lsl="ls -l --color=auto"
 alias dir="dir --color=auto"
 alias grep="grep --color=auto"
 alias dmesg="dmesg --color"
