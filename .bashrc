@@ -25,6 +25,7 @@ esac
 alias ls="ls --color=auto"
 alias lsa="ls -a --color=auto"
 alias lsl="ls -l --color=auto"
+alias ..="cd .."
 alias dir="dir --color=auto"
 alias grep="grep --color=auto"
 alias dmesg="dmesg --color"
